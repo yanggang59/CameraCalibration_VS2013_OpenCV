@@ -1,0 +1,16 @@
+D://calibPic//01_07//test00.jpg
+D://calibPic//01_07//test01.jpg
+D://calibPic//01_07//test02.jpg
+D://calibPic//01_07//test03.jpg
+D://calibPic//01_07//test05.jpg
+D://calibPic//01_07//test05.jpg
+D://calibPic//01_07//test06.jpg
+D://calibPic//01_07//test07.jpg
+D://calibPic//01_07//test08.jpg
+D://calibPic//01_07//test09.jpg
+D://calibPic//01_07//test10.jpg
+D://calibPic//01_07//test11.jpg
+D://calibPic//01_07//test12.jpg
+D://calibPic//01_07//test13.jpg
+end
+
